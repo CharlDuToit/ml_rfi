@@ -1,5 +1,6 @@
 # ml_rfi
 A Deep Fully Convolutional Neural Net implementation in Tensorflow as applied to RFI flagging in waterfall visibilities.
+Modified by Charl du Toit
 
 # Dependencies:
 Dependent software versions specified here work with the current iteration of ml_rfi, older or newer versions of these software packages may work but cannot be guaranteed.
